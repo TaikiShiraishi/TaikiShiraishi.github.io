@@ -62,8 +62,6 @@
 
 - Vue.js
 - TypeScript
-- HTML
-- CSS
 
 ### 業務アプリ開発
 
