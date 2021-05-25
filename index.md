@@ -23,6 +23,7 @@
 - Nuxt.js
 - Storybook
 - Jest
+- Stimulus
 - React（個人）
 
 ## その他
