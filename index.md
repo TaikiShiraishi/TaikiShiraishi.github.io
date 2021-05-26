@@ -62,6 +62,8 @@
 
 - Vue.js
 - TypeScript
+- Jest
+- Storybook
 
 ### 業務アプリ開発
 
